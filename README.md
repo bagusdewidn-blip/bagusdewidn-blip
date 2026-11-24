@@ -1,4 +1,3 @@
-## Hi there 👋
 ### Halo, saya Bagus Hidayatulloh 👋
 
 **Full-Stack Web & Mobile Developer** • **Mahasiswa Ilmu Pemerintahan (Universitas Terbuka)**
